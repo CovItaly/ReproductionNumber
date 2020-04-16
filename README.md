@@ -1,4 +1,4 @@
-## Estimating COVID-19's R_t in Real-Time
+## Estimating *R_t* in Real-Time
 
 The following notebooks by [Michele Tizzoni](https://github.com/micheletizzoni) reproduce the estimate of the time-varying reproductive number for Italy:
 
